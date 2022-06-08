@@ -3,3 +3,5 @@ newline
 
 
 what am i doing here
+
+we're learning git!
